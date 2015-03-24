@@ -1,0 +1,3 @@
+This project involves modifying a Traxxas E-Maxx RC truck to autonomously chase a small RC car through the use of Pololu Infrared transceivers. The E-Maxx also has obstacle avoiding capabilities to avoid running into walls and accomplishes this through use of 4 PING))) ultrasonic sensors. The entire project uses an Arduino Diecimila micro controller.
+
+For more information and tutorials on this project as well as other projects, please visit my website at http://mattminnick.com
